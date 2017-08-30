@@ -74,7 +74,6 @@ public class ListPerformance {
         test(new ArrayList());
         test(new LinkedList());
     }
-
     }
 
 
